@@ -7,7 +7,7 @@ public class Test {
 
 	public static void main(String[] args) throws InterruptedException {
 
-		Takim takim1 = new Takim("Fransa");// isimler örnek :D
+		Takim takim1 = new Takim("Fransa");// isimler örnek olarak verilmiştir
 		Takim takim2 = new Takim("Arjantin");
 		List<Takim> takimlar = new ArrayList<>();
 		takimlar.add(takim1);
